@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | HTML | CSS | JavaScript | PHP | Java
-- 🌐 &nbsp; React | ReactNative | NodeJS | TypeScript | Angular | Ionic
-- 🛢 &nbsp; MySQL | Xampp | Docker | PostgreSql 
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git | SmartGit | WebStorm | IntelliJ | DBeaver | Insomnia
+- 🛢 &nbsp; MySQL | Xampp 
+- 💻 &nbsp; HTML | CSS | JavaScript | PHP | Java 
+- 🌐 &nbsp; Laravel | TypeScript | Angular | Ionic
+- 🔧 &nbsp; Visual Studio Code | PHPStorm | IntelliJ 
 
-</br> -->
+</br> 
 
 <h4>These are my stats 📊 </h4>
 
@@ -33,7 +32,7 @@ Here are some ideas to get you started:
 <h4> 🤝🏻 Connect with Me </h4>
 
 <p align="center">  
-&nbsp; <a href="https://www.instagram.com/manuhvcarvalho/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" width="50"/></a>  
-&nbsp; <a href="mailto:emanuellyvcarv@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" width="50"/></a>
-&nbsp; <a href="youtube.com/emanuellycarvalho" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" width="50"/></a>
+&nbsp; <a href="https://www.instagram.com/manuhvcarvalho/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" width="50"/></a>  
+&nbsp; <a href="mailto:emanuellyvcarv@gmail.com" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" width="50"/></a>
+&nbsp; <a href="https://www.youtube.com/emanuellycarvalho" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" width="50"/></a>
 </p>

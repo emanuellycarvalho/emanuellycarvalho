@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <h4> 🤝🏻 Connect with Me </h4>
 
 <p align="center">  
-&nbsp; <a href="https://www.instagram.com/manuhvcarvalho/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="mailto:emanuellyvcarv@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.instagram.com/manuhvcarvalho/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" width="50"/></a>  
+&nbsp; <a href="mailto:emanuellyvcarv@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" width="50"/></a>
+&nbsp; <a href="youtube.com/emanuellycarvalho" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" width="50"/></a>
 </p>
-<!-- &nbsp; <a href="https://www.linkedin.com/in/josiney-junior-046641145/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a> -->

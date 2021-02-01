@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 <h4> 🤝🏻 Connect with Me </h4>
 
 <p align="center">  
-&nbsp; <a href="https://www.instagram.com/manuhvcarvalho/" target="_blank"><img src="https://img.icons8.com/clouds/50/000000/instagram-new--v2.png" width="90"/></a>
-&nbsp; <a href="mailto:emanuellyvcarv@gmail.com" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/gmail.png" width="90"/></a>
-&nbsp; <a href="http://lattes.cnpq.br/3281846061587487" target="_blank"><img src="https://img.icons8.com/?id=E48y0Mtfxspp&color=000000" width="90"/></a>
+&nbsp; <a href="https://www.instagram.com/manuhvcarvalho/" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/instagram-new--v2.png" width="70"/></a>
+&nbsp; <a href="mailto:emanuellyvcarv@gmail.com" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/gmail.png" width="70"/></a>
+&nbsp; <a href="http://lattes.cnpq.br/3281846061587487" target="_blank"><img src="https://img.icons8.com/?id=E48y0Mtfxspp&color=000000" width="70"/></a>
 </p>
 <!-- 
 &nbsp; <a href="https://www.youtube.com/channel/UCcyrniY4DZvhqNLIJaXpOJg" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" width="50"/></a>

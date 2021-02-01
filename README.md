@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my internship.
 - 💬 Ask me about school, dreams, neuroscience, music, psycology, filosophy...
 - ⚡ Fun fact: I used to dream about being a psychologist!
-- 📚 Languages: Portuguese, English, Spanish.
+- 📚 Languages: Portuguese, English, Spanish, LIBRAS.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 <p align="center">  
 &nbsp; <a href="https://www.instagram.com/manuhvcarvalho/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" width="50"/></a>  
 &nbsp; <a href="mailto:emanuellyvcarv@gmail.com" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" width="50"/></a>
-&nbsp; <a href="https://www.youtube.com/channel/emanuellycarvalho" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" width="50"/></a>
+&nbsp; <a href="https://www.youtube.com/channel/UCcyrniY4DZvhqNLIJaXpOJg" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" width="50"/></a>
 </p>

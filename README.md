@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 </br> -->
 
-<h3>These are my stats 📊 </h3>
+<h4>These are my stats 📊 </h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emwnuelly&layout=demo&text_color=daf7dc&theme=ayu-mirage)](https://github.com/caduxl007/github-readme-stats)
-[![emwnuelly github stats](https://github-readme-stats.vercel.app/api?username=JosineyJr&show_icons=true&theme=ayu-mirage)
+[![emwnuelly github stats](https://github-readme-stats.vercel.app/api?username=emwnuelly&show_icons=true&theme=ayu-mirage)
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h4> 🤝🏻 Connect with Me </h4>
 
 <p align="center">  
 &nbsp; <a href="https://www.instagram.com/manuhvcarvalho/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  

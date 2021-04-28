@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Pronouns: she/her.
-- 🔭 I’m currently working on my internship.
+<!-- - 🔭 I’m currently working on internship. -->
 - 💬 Ask me about school, dreams, neuroscience, music, psycology, filosophy...
 - ⚡ Fun fact: I used to dream about being a psychologist!
 - 📚 Languages: Portuguese, English, Spanish, LIBRAS.

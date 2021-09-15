@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Pronouns: she/her.
-<!-- - 🔭 I’m currently working on internship. -->
-- 💬 Ask me about school, dreams, neuroscience, music, psycology, filosophy...
-- ⚡ Fun fact: I used to dream about being a psychologist!
 - 📚 Languages: Portuguese, English, Spanish, LIBRAS.
+<!-- - 🔭 I’m currently working on internship. -->
+<!-- - 💬 Ask me about college, neuroscience, music, psycology, filosophy... -->
+<!-- - ⚡ Fun fact: I used to dream about being a psychologist! -->
 
 <h3>🛠 Tech Stack</h3>
 
@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 - 🔧 &nbsp; Visual Studio Code | PHPStorm | IntelliJ 
 
 
-<h4>These are my stats 📊 </h4>
+<!-- <h4>These are my stats 📊 </h4>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emwnuelly&layout=demo&text_color=daf7dc&theme=ayu-mirage)](https://github.com/caduxl007/github-readme-stats)
-<!-- [![emwnuelly github stats](https://github-readme-stats.vercel.app/api?username=emwnuelly&show_icons=true&theme=ayu-mirage) -->
+[![emwnuelly github stats](https://github-readme-stats.vercel.app/api?username=emwnuelly&show_icons=true&theme=ayu-mirage) -->
 
-
-<h4> 🤝🏻 Connect with Me </h4>
+<br>
+<h4 align="center"> 🤝🏻 Connect with Me </h4>
 
 <p align="center">  
 &nbsp; <a href="https://www.instagram.com/manuhvcarvalho/" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/instagram-new--v2.png" width="70"/></a>

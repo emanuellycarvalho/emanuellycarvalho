@@ -5,24 +5,25 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 -->
 
 - 😄 Pronouns: she/her.
-- 📚 Languages: Portuguese, English, Spanish, LIBRAS.
+- 📚 Languages: Portuguese, English, Spanish.
+- 🌱 I’m currently learning Vue.js
 <!-- - 🔭 I’m currently working on internship. -->
 <!-- - 💬 Ask me about college, neuroscience, music, psycology, filosophy... -->
 <!-- - ⚡ Fun fact: I used to dream about being a psychologist! -->
 
 <h3>🛠 Tech Stack</h3>
 
-- 🛢 &nbsp; MySQL | Xampp 
+- 🛢 &nbsp; MySQL | PostgreSQL 
 - 💻 &nbsp; HTML | CSS | JavaScript | PHP | Java 
-- 🌐 &nbsp; Laravel | TypeScript | Angular | Ionic
-- 🔧 &nbsp; Visual Studio Code | PHPStorm | IntelliJ 
+- 🌐 &nbsp; Laravel | TypeScript | Angular | Ionic 
+<!-- - 🔧 &nbsp; Visual Studio Code | PHPStorm | IntelliJ  -->
 
 
 <!-- <h4>These are my stats 📊 </h4>
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 <h4 align="center"> 🤝🏻 Connect with Me </h4>
 
 <p align="center">  
-&nbsp; <a href="https://www.instagram.com/manuhvcarvalho/" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/instagram-new--v2.png" width="70"/></a>
+&nbsp; <a href="https://www.instagram.com/emanuellycrv/" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/instagram-new--v2.png" width="70"/></a>
 &nbsp; <a href="https://www.linkedin.com/in/emanuelly-carvalho" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="70"/></a>
 &nbsp; <a href="http://lattes.cnpq.br/3281846061587487" target="_blank"><img src="https://img.icons8.com/?id=E48y0Mtfxspp&color=000000" width="70"/></a>
 </p>

@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: she/her.
 - 📚 Languages: Portuguese, English, Spanish.
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Vue.js <b>&</b> Quasar Framework
 <!-- - 🔭 I’m currently working on internship. -->
 <!-- - 💬 Ask me about college, neuroscience, music, psycology, filosophy... -->
 <!-- - ⚡ Fun fact: I used to dream about being a psychologist! -->

@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: she/her.
 - 📚 Languages: Portuguese, English, Spanish.
-- 🌱 I’m currently learning Vue.js <b>&</b> Quasar Framework
+<!-- - 🌱 I’m currently learning Vue.js <b>&</b> Quasar Framework -->
 <!-- - 🔭 I’m currently working on internship. -->
 <!-- - 💬 Ask me about college, neuroscience, music, psycology, filosophy... -->
 <!-- - ⚡ Fun fact: I used to dream about being a psychologist! -->
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🛢 &nbsp; MySQL | PostgreSQL 
 - 💻 &nbsp; HTML | CSS | JavaScript | PHP | Java 
-- 🌐 &nbsp; Laravel | TypeScript | Angular | Ionic 
+- 🌐 &nbsp; Laravel | TypeScript | Angular | Ionic | Vue.js | Quasar Framework
 <!-- - 🔧 &nbsp; Visual Studio Code | PHPStorm | IntelliJ  -->
 
 

@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 <h4 align="center"> 🤝🏻 Connect with Me </h4>
 
 <p align="center">  
-&nbsp; <a href="https://www.instagram.com/emanuellycrv/" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/instagram-new--v2.png" width="70"/></a>
 &nbsp; <a href="https://www.linkedin.com/in/emanuelly-carvalho" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="70"/></a>
 &nbsp; <a href="http://lattes.cnpq.br/3281846061587487" target="_blank"><img src="https://img.icons8.com/?id=E48y0Mtfxspp&color=000000" width="70"/></a>
 </p>

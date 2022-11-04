@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 - 🛢 &nbsp; MySQL | PostgreSQL 
-- 💻 &nbsp; HTML | CSS | JavaScript | PHP | Java 
-- 🌐 &nbsp; Laravel | TypeScript | Angular | Ionic | Vue.js | Quasar Framework
+- 💻 &nbsp; HTML | CSS | JavaScript | PHP  
+- 🌐 &nbsp; Laravel | Vue.js | Quasar Framework
+- 🔧 &nbsp; Docker
 <!-- - 🔧 &nbsp; Visual Studio Code | PHPStorm | IntelliJ  -->
 
 
